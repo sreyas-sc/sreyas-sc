@@ -14,7 +14,7 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/sreyas-sc/github-readme-streak-stats"><img alt="Sreyas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sreyas-sc&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=060A0CD0" /></a>
+    <a href="https://github.com/sreyas-sc/github-readme-streak-stats"><img alt="Sreyas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sreyas-sc&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/sreyas-sc/github-readme-streak-stats"><img alt="sreyas's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreyas-sc&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=060A0CD0" /></a>
   <br/>
   
