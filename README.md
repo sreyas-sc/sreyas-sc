@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey, I'm Sreyas</h1> 
+<h1 align="center">Hey, I'm <a href="https://www.sreyas.ml/">Sreyas</a></h1> 
 <h3 align="center">I'm a Technology enthusiast currently pursuing my masters at <a href="https://www.cet.ac.in/">CET</a> .</h3>
 <h3 align="center">📌 Kerala, India </h3>
 
