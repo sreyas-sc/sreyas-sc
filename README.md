@@ -5,7 +5,7 @@
 
 
 
-<!--<p align="center">
+<p align="center">
     <a href="https://github.com/sreyas-sc/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sreyas's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sreyas-sc&theme=dark&hide_border=true&stroke=0000&background=060A0CD0&date_format=j%20M%5B%20Y%5D&fire=84C2FF&ring=CCB1FF&currStreakNum=84C2FF&currStreakLabel=CCB1FF&sideNums=84C2FF&sideLabels=CCB1FF"/>
     </a>
@@ -20,10 +20,10 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
-<br/>
+<br/>-->
 <br/>
 
-<a href="https://github.com/sreyas-sc/github-readme-activity-graph"><img alt="Sreyas's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sreyas-sc&bg_color=060A0CD0&color=84c2ff&line=ccb1ff&point=FFFFFF&hide_border=true" /></a> -->
+<a href="https://github.com/sreyas-sc/github-readme-activity-graph"><img alt="Sreyas's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sreyas-sc&bg_color=060A0CD0&color=84c2ff&line=ccb1ff&point=FFFFFF&hide_border=true" /></a> 
 
 <br/>
 <br/>
