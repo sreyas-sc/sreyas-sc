@@ -5,14 +5,10 @@
 ## Languages
 
 <p align="left"> 
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="img/icon/Lang/C.png" width="45px" />  </a>
-    <a href="https://www.cplusplus.com/" target="_blank"> <img src="img/icon/Lang/Cpp.png" width="45px" />  </a>  
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="img/icon/Lang/CSharp.png" width="45px" />  </a>
-    <a href="https://www.java.com" target="_blank"> <img src="img/icon/Lang/Java.png" width="45px" />  </a>
-    <a href="https://html.com/" target="_blank"> <img src="img/icon/Lang/HTML.png" width="45px" />  </a>
-    <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img src="https://img.icons8.com/nolan/2x/css-filetype.png" width="45px" />  </a>
-    <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/nolan/2x/javascript.png" width="45px" />  </a>
-    <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"> <img src="https://img.icons8.com/nolan/2x/sql.png" width="45px" />  </a>
+    <a href="https://html.com/" target="_blank"> <img src="https://img.icons8.com/ios/2x/html-5.png" width="45px" />  </a>
+    <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img src="https://img.icons8.com/ios/2x/css3.png" width="45px" />  </a>
+    <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/ios/2x/javascript--v2.png" width="45px" />  </a>
+    <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"> <img src="https://img.icons8.com/ios/2x/sql.png" width="45px" />  </a>
     <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/ios/2x/python--v2.png" width="45px" />  </a>    
    
 </p>
