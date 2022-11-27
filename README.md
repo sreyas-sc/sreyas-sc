@@ -7,7 +7,7 @@
 
 
 <p align="left"> 
-    <a href="https://html.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/html-2752158-2284975.png" width="45px" />  </a>
+    <a href="https://html.com/" target="_blank"> <img src="https://img.icons8.com/ios/2x/html-5.png" width="45px" />  </a>
     <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img src="https://img.icons8.com/ios/2x/css3.png" width="45px" />  </a>
     <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/ios/2x/javascript--v2.png" width="45px" />  </a>
     <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"> <img src="https://img.icons8.com/ios/2x/sql.png" width="45px" />  </a>
