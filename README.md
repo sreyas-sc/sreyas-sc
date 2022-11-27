@@ -2,7 +2,8 @@
 <h1 align="center">Hey, I'm <a href="https://www.sreyas.ml/">Sreyas</a></h1> 
 <h3 align="center">I'm a tech fanatic, currently pursuing my masters at <a href="https://www.cet.ac.in/">CET</a> .</h3>
 <h3 align="center">📌 Kerala, India </h3>
-🌐 [sreyas.ml](sreyas.ml)
+
+🌐 sreyas.ml/
 
 <hr style="height:0.5px;border-width:0;color:gray;background-color:gray">
 
