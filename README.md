@@ -17,13 +17,12 @@
     <a href="https://github.com/sreyas-sc/github-readme-streak-stats"><img alt="Sreyas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sreyas-sc&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=060A0CD0" /></a>
   <a href="https://github.com/sreyas-sc/github-readme-streak-stats"><img alt="sreyas's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreyas-sc&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=060A0CD0" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
+  
 
 <br/>
 <br/>
 
-<a href="https://github.com/sreyas-sc/github-readme-activity-graph"><img alt="Sreyas's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sreyas-sc&bg_color=0126e210&color=84c2ff&line=ccb1ff&point=FFFFFF&hide_border=true" /></a> 
+<a href="https://github.com/sreyas-sc/github-readme-activity-graph"><img alt="Sreyas's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sreyas-sc&bg_color=0126e210&color=4cba3d&line=ccb1ff&point=FFFFFF&hide_border=true" /></a> 
 
 <br/>
 <br/>
