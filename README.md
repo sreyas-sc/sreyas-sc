@@ -14,7 +14,7 @@
     
    
 </p>
-<hr style="height:1px;border-width:0;color:gray;background-color:gray">
+<hr style="height:0.5px;border-width:0;color:gray;background-color:gray">
 
 
 
