@@ -22,7 +22,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/sreyas-sc/github-readme-activity-graph"><img alt="Sreyas's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sreyas-sc&bg_color=0126e210&color=4cba3d&line=4cba3d&point=f70505&hide_border=true" /></a> 
+<a href="https://github.com/sreyas-sc/github-readme-activity-graph"><img alt="Sreyas's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sreyas-sc&bg_color=0126e210&color=4cba3d&line=0d0707&point=f70505&hide_border=true" /></a> 
 
 <br/>
 <br/>
