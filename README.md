@@ -13,7 +13,7 @@
     <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img src="img/icon/Lang/CSS.png" width="45px" />  </a>
     <a href="https://www.javascript.com/" target="_blank"> <img src="img/icon/Lang/JS.png" width="45px" />  </a>
     <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"> <img src="img/icon/Lang/SQL.png" width="45px" />  </a>
-    <a href="https://www.python.org/" target="_blank"> <img src="img/icon/Lang/Python.png" width="45px" />  </a>    
+    <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/fluency/2x/python.png" width="45px" />  </a>    
    
 </p>
 
