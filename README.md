@@ -38,7 +38,7 @@
 
 <br/>
 <br/>
-https://activity-graph.herokuapp.com/graph?username=#sreyas-sc&theme=dracula&hide_border=true
+
 
 <br/>
 <br/>
