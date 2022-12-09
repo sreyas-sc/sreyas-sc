@@ -39,7 +39,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/sreyas-sc/github-readme-activity-graph"><img alt="Sreyas's Activity Graph" src="https://github-readme-activity-graph.cyclic.app?username=sreyas-sc&bg_color=0126e210&color=4cba3d&line=0f9c08&point=FFFFF&hide_border=true" /></a> 
+(https://github-readme-activity-graph.cyclic.app/graph?username=sreyas-sc)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 <br/>
