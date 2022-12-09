@@ -38,7 +38,7 @@
 
 <br/>
 <br/>
-[![Sreyas's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sreyas-sc)](https://github.com/sreyas-sc/github-readme-activity-graph)
+https://activity-graph.herokuapp.com/graph?username=#sreyas-sc&theme=dracula&hide_border=true
 
 <br/>
 <br/>
