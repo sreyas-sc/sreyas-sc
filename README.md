@@ -5,7 +5,7 @@
 <h3 align="center">📌 Kerala, India </h3>
 
 
-🌐 [sreyas.online](https://www.sreyas.site/)
+🌐 [sreyas.site](https://www.sreyas.site/)
 
 <hr style="height:0.5px;border-width:0;color:gray;background-color:gray">
 
