@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm <a href="https://www.sreyas.site/" style="color: #00ff00;">Sreyas</a></h1> 
+<h1 align="center">Hey, I'm <a href="https://www.sreyas.site/" style="color: #0000;">Sreyas</a></h1> 
 <h3 align="center">I'm a tech fanatic with a masters in Computer Application from <a href="https://www.cet.ac.in/" style="color: #00ff00;">CET</a> .</h3>
 <h3 align="center">📌 Kerala, India </h3>
 
