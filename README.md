@@ -31,7 +31,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200">
 
 <!-- Modified GitHub stats with green theme -->
-<p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=sreyas-sc&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true&locale=en" alt="sreyas-sc" /></p>
+<p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=sreyas-sc&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true" alt="sreyas-sc" /></p>
 <br>
 
 <p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=sreyas-sc&show_icons=true&theme=chartreuse-dark&hide_border=true&locale=en" alt="sreyas-sc" /></p>
