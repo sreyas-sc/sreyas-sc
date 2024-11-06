@@ -42,8 +42,8 @@
 
 
 ### 🎓 Education
-- MCA from College of Engineering Trivandrum (2022-2024)
-- BCA from Naipunnya School of Management, Cherthala (2018-2021)
+ - MCA from College of Engineering, Trivandrum (2022-2024)
+ - BCA from Naipunnya School of Management, Cherthala (2018-2021)
 
 ```
 const sreyas = {
