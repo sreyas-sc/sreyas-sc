@@ -45,9 +45,8 @@
 - MCA from College of Engineering Trivandrum (2022-2024)
 - BCA from Naipunnya School of Management, Cherthala (2018-2021)
 
-### ⚡ Fun Fact
 ```
-const jubin = {
+const sreyas = {
     pronouns: "He" | "Him",
     code: ["Javascript", "TypeScript", "Python", "Java", "PHP"],
     askMeAbout: ["web dev", "tech"],
