@@ -46,7 +46,7 @@
 - BCA from Naipunnya School of Management, Cherthala (2018-2021)
 
 ### ⚡ Fun Fact
-
+```
 const jubin = {
     pronouns: "He" | "Him",
     code: ["Javascript", "TypeScript", "Python", "Java", "PHP"],
@@ -64,7 +64,7 @@ const jubin = {
         misc: ["Firebase", "Socket.IO", "GraphQL"]
     }
 };
-
+```
 ---
 <p align="center">
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
