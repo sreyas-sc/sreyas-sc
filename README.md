@@ -38,3 +38,36 @@
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sreyas-sc&theme=chartreuse-dark&hide_border=true&locale=en" alt="sreyas-sc" /></p>
+
+
+
+### 🎓 Education
+- MCA from College of Engineering Trivandrum (2022-2024)
+- BCA from Naipunnya School of Management, Cherthala (2018-2021)
+
+### ⚡ Fun Fact
+
+const jubin = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "TypeScript", "Python", "Java", "PHP"],
+    askMeAbout: ["web dev", "tech"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["tailwind", "bootstrap"]
+        },
+        backEnd: {
+            js: ["Node", "Express"],
+            python: ["flask"]
+        },
+        databases: ["MongoDB", "PostgreSQL", "MySQL"],
+        misc: ["Firebase", "Socket.IO", "GraphQL"]
+    }
+};
+
+---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+</p>
+
+💬 Feel free to reach out if you want to discuss technology, collaboration, or just want to say hi!
