@@ -69,4 +69,4 @@ const sreyas = {
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
 </p>
 
-💬 Feel free to reach out if you want to discuss technology, collaboration, or just want to say hi!
+💬 Feel free to reach out if you want to discuss technology,or just want to say hi!
