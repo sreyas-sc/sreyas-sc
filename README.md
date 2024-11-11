@@ -2,7 +2,7 @@
 <h1 align="center">Hey, I'm <a href="https://www.sreyas.site/" style="color: #0000;">Sreyas</a></h1> 
 <!-- <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"> -->
 <h3 align="center">I'm a tech fanatic with a masters in Computer Application from <a href="https://www.cet.ac.in/" style="color: #00ff00;">CET</a> .</h3>
-<h3 align="center">📌 Kerala, India </h3>
+<h3 align="center">📌 Alappuzha, Kerala, India </h3>
 
 🌐 [sreyas.site](https://www.sreyas.site/)
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
