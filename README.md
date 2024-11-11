@@ -47,9 +47,8 @@
 
 ```
 const sreyas = {
-    pronouns: "He" | "Him",
     code: ["Javascript", "TypeScript", "Python", "Java", "PHP"],
-    askMeAbout: ["web dev", "tech"],
+    askMeAbout: ["web dev", "tech", "ML"],
     technologies: {
         frontEnd: {
             js: ["React", "Next.js"],
@@ -57,7 +56,7 @@ const sreyas = {
         },
         backEnd: {
             js: ["Node", "Express"],
-            python: ["flask"]
+            python: ["flask", "Django"]
         },
         databases: ["MongoDB", "PostgreSQL", "MySQL"],
         misc: ["Firebase", "Socket.IO", "GraphQL"]
