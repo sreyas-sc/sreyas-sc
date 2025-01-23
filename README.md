@@ -39,6 +39,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sreyas-sc&theme=chartreuse-dark&hide_border=true&locale=en" alt="sreyas-sc" /></p>
 
+<p><img src="https://ghchart.rshah.org/sreyas-sc" alt="2016rshah's Github chart"></p>
 
 
 ### 🎓 Education
